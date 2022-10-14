@@ -103,7 +103,7 @@ a {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     width: 250px;
     text-align: justify;}
